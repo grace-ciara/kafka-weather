@@ -1,0 +1,6 @@
+.env
+client.properties
+
+.venv/
+__pycache__/
+*.pyc
